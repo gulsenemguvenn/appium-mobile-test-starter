@@ -74,7 +74,7 @@ En sık kullandıklarımız:
 
 Not: Versiyonlar projene göre değişebilir. Buradaki yapı genel örnektir.
 
-![alt text](images\images-2.png)
+![alt text](images/images-2.png)
 
 ## 5) Driver Kurulumu (BaseTest)
 
@@ -84,9 +84,9 @@ Aşağıdaki BaseTest sınıfı:
 - Driver’ı başlatır  
 - Her testten sonra driver’ı kapatır  
 
-![alt text](images\images-6.png)
+![alt text](images/images-6.png)
 
-![alt text](images\images-3.png)
+![alt text](images/images-3.png)
 
 ---
 
@@ -106,7 +106,7 @@ Bu testte:
 - Element bulunur  
 - Tıklama / yazma gibi aksiyonlar yapılır  
 
-![alt text](images\images-4.png)
+![alt text](images/images-4.png)
 
 ## 7) Locator (Element Bulma) Yöntemleri
 
@@ -119,7 +119,7 @@ En yaygın locator’lar:
 
 ---
 
-![alt text](images\images-5.png)
+![alt text](images/images-5.png)
 
 ---
 

@@ -70,7 +70,7 @@ com.instagram.mainactivity.MainActivity → appActivity
 
 Aşağıda appPackage ve appActivity kullanılan örnek bir yapı bulunmaktadır.
 
-![alt text](images\images-7.png)
+![alt text](images/images-7.png)
 
 ---
 

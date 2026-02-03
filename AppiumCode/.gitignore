@@ -30,4 +30,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
+Apps/
 *.apk
